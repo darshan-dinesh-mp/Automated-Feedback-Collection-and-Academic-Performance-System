@@ -8,9 +8,9 @@
 8. start coding 🤗
 
 
---Only for info--
-(what i did after git clone)
-npm i 
-composer i
-cp .env.example .env
-php artisan key:generate"# zv" 
+--Only for info-- <br>
+(what i did after git clone) <br>
+npm i <br>
+composer i <br>
+cp .env.example .env <br>
+php artisan key:generate"# zv" <br>
